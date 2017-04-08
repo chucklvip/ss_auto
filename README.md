@@ -24,3 +24,6 @@ Support for Ubuntu / Debian, other systems need to modify the script
 
 4. The default port is 13571-13573, maybe you want to modify it
 
+
+[PyPI]:              https://pypi.python.org/pypi/shadowsocks
+[PyPI version]:      https://img.shields.io/pypi/v/shadowsocks.svg?style=flat
